@@ -1,0 +1,72 @@
+HTML,body {
+    margin: 0%;
+    background-color: rgb(154, 236, 236);
+      
+   
+    }
+
+#imagem {
+
+    background: rgb(70, 171, 205) url("agua.jpg") no-repeat fixed center;
+    width: 80%;
+    padding: 10% 10% 10% 10%;
+    text-align: center;
+    background-size: cover;
+}
+
+    
+
+p {
+    line-height: 1.5;
+    margin: 2% 2% 2% 2%;
+    text-align:justif
+}
+#txt_1 {
+    
+    color: blue;
+    font-size: 40px;
+    text-shadow: 2px 2px 5px black;
+}
+
+#subtexto {
+        
+        color: blue;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+#titulo {
+        padding-left: 20% 20% 20% 20%;
+        text-align: center;
+        color: blue;
+    }
+#titulo_1{
+        text-align: center;
+       
+}
+#titulo_2 {
+    text-align: center;
+}
+#titulo_3 {
+    padding: 10px 10px 10px 30px;
+}
+#metas {
+    padding: 10px 10px 10px 30px;
+
+}
+.destaque_1 {
+    float: left;
+}
+
+
+    
+.mensagem {
+    float: left;
+}
+
+
+
+    
+   
+       
+
